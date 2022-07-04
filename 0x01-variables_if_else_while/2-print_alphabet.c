@@ -3,6 +3,7 @@
 /**
  *assign- a randum number
  *print: print a number
+ */
 int main(void)
 {
 	int ch;

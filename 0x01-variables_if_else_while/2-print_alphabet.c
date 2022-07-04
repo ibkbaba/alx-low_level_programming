@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /**
- *assign- a randum number
+ *main- a randum number
  *print: print a number
  */
 int main(void)
 {
-	int ch;
+	int 'ch';
 	for (ch = 97; ch <= 122; ch++)
 	{
 		putchar(ch);

@@ -3,9 +3,9 @@
 #include <stdio.h>
 /**
 *main - asign a random number to the variable
-*based a condition
-*return: always 0
-*/
+*
+*return: 0 always
+**/
 int main(void)
 {
 

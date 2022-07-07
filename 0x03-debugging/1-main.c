@@ -19,7 +19,6 @@ int main(void)
 	*	putchar(i);
 	*}
 	*/
-
 	parintf("Infinite loop avoided! \\o/\n");
 	return (0);
 }

@@ -2,7 +2,7 @@
 
 /**
  *_isupper-uppercase function
- *@c:parameter
+ *@c:integer parameter
 *Return:something but success
  */
 

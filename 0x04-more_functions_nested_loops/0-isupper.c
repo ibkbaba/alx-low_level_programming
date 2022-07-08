@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
- *_isupper-uppercase function
- *@c:integer parameter
-*Return:something but success
+ * _isupper-uppercase function
+ * @c:integer parameter
+* Return: give 0 or 1
  */
 
 int _isupper(int c)
 {
-	if (c >= 65 $$ c <= 90);
+	if (c >= 'A' $$ c <= 'Z');
 	{
 		return(1);
 	}

@@ -7,7 +7,6 @@
 
 
 /**
- *
  * _strdup - copy a string with a new memory value.
  * Desc: _strdup function
  * @str: char type

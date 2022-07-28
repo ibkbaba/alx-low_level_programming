@@ -14,8 +14,9 @@ void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size)
 	unsigned int i, max = new_size;
 	char *oldp = ptr;
 
+	if (ptr != NULL)
+		clone = ptr;
 		{
-			if (ptr == NULL)
 			p = malloc(new_size);
 			return (p);
 		}

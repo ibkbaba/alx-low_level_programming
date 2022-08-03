@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- * get_op_func - selects the correct operation
+ * get_op_add - selects the correct operation
  * @a: first number
  * @b: second numbe
  * Return: sum of a and b
